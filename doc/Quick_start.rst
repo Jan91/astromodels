@@ -4,7 +4,7 @@ Quick start
 
 In this quick tutorial we will learn how to create a simple model with
 one point source, with a power law spectrum. You can of course use any
-function instead of the power law. Use "list\_models()" to obtain a list
+function instead of the power law. Use "list\_functions()" to obtain a list
 of available models.
 
 Let's define the model:
